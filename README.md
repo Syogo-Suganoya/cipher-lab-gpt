@@ -1,12 +1,12 @@
-暗号AI解読ツール と 暗号化・復号化ツール を作りました。
+[暗号AI解読ツール](https://github.com/Syogo-Suganoya/cipher-lab-gpt/blob/main/README.md#cipher-inspector---%E6%9A%97%E5%8F%B7%E8%A7%A3%E8%AA%AD%E3%83%84%E3%83%BC%E3%83%AB) と [暗号化・復号化ツール](https://github.com/Syogo-Suganoya/cipher-lab-gpt/blob/main/README.md#cipher-tool---%E6%9A%97%E5%8F%B7%E5%8C%96%E5%BE%A9%E5%8F%B7%E5%8C%96%E3%83%84%E3%83%BC%E3%83%AB) を作りました。
 
 ---
 
-# Cipher Inspector - 暗号解読ツール
+# Cipher Inspector - 暗号AI解読ツール
 
 ## 概要
 
-Cipher Inspectorは、複数の暗号方式に対応した暗号解読ツールです。総当たり攻撃や固定キーを使用した復号を行い、復号結果が意味のある日本語かどうかをAI（GPT）を活用して判定します。また、書籍暗号のような特殊な暗号方式にも対応しています。
+Cipher Inspectorは、複数の暗号方式に対応した暗号AI解読ツールです。総当たり攻撃や固定キーを使用した復号を行い、復号結果が意味のある日本語かどうかをAI（GPT）を活用して判定します。また、書籍暗号のような特殊な暗号方式にも対応しています。
 
 ## 主な機能
 
