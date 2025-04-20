@@ -1,4 +1,4 @@
-[暗号AI解読ツール](https://github.com/Syogo-Suganoya/cipher-lab-gpt/blob/main/README.md#cipher-inspector---%E6%9A%97%E5%8F%B7%E8%A7%A3%E8%AA%AD%E3%83%84%E3%83%BC%E3%83%AB) と [暗号化・復号化ツール](https://github.com/Syogo-Suganoya/cipher-lab-gpt/blob/main/README.md#cipher-tool---%E6%9A%97%E5%8F%B7%E5%8C%96%E5%BE%A9%E5%8F%B7%E5%8C%96%E3%83%84%E3%83%BC%E3%83%AB) を作りました。
+[暗号AI解読ツール](https://github.com/Syogo-Suganoya/cipher-lab-gpt/blob/main/README.md#cipher-inspector---%E6%9A%97%E5%8F%B7ai%E8%A7%A3%E8%AA%AD%E3%83%84%E3%83%BC%E3%83%AB) と [暗号化・復号化ツール](https://github.com/Syogo-Suganoya/cipher-lab-gpt/blob/main/README.md#cipher-tool---%E6%9A%97%E5%8F%B7%E5%8C%96%E5%BE%A9%E5%8F%B7%E5%8C%96%E3%83%84%E3%83%BC%E3%83%AB) を作りました。
 
 ---
 
